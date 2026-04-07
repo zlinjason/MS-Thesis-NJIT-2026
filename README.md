@@ -7,3 +7,9 @@
 * [HaseltonArchetypeFrames.zip] — Original Haselton reference files.
 * [legacy.zip] — Past attempts using Tariq files (Obsolete).
 * [readings.zip] — Supplementary references and "extras" folder.
+
+---
+
+### License & Copyright
+* **Original Work:** All original scripts and models are licensed under the **MIT License**.
+* **Third-Party Materials:** OpenSees, Haselton Archetype Frames, and Tariq files are subject to their own respective copyrights and research licenses. These are included for reproducibility and reference purposes only.
