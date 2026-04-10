@@ -3,6 +3,11 @@
 
 ---
 
+### Download Priority
+* While [main.zip] contains the latest files, [snapshots.zip] provides pre-configured project states, allowing you to run specific stages without manual code modifications.
+
+---
+
 ### Latest Release Assets
 * [main.zip] — Final files and validated models for thesis.
 * [snapshots.zip] —  Checkpoints leading up to the final files.
@@ -10,7 +15,6 @@
 * [readings.zip] — Supplementary references and "extras" folder.
 * [OpenSees.zip] — Official OpenSees executable for running .tcl scripts.
 * [HaseltonArchetypeFrames.zip] — Original Haselton reference files.
-
 
 ---
 
